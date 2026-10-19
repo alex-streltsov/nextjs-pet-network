@@ -5,12 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.11"
+    "next": "13.5.11",
+    "react": "^18.2.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-dom": "^18.2.0",
+    "react-modal": "^3.16.3"
   }
 }
